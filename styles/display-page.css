@@ -1,0 +1,16 @@
+main {
+	width: 800px;
+	height:500;
+	font-size: 0;
+}
+
+top-one {
+	width: 50%;
+	height: 200px;
+	background-color: green;
+}
+
+top-two {
+	height: 200px;
+	background-color: blue;
+}
