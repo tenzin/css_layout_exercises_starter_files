@@ -4,13 +4,13 @@ main {
 	font-size: 0;
 }
 
-top-one {
+.top-one {
 	width: 50%;
 	height: 200px;
 	background-color: green;
 }
 
-top-two {
+.top-two {
 	height: 200px;
 	background-color: blue;
 }
