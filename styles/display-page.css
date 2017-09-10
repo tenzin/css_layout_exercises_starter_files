@@ -1,16 +1,49 @@
 main {
-	width: 800px;
-	height:500px;
 	font-size: 0;
 }
 
-.top-one {
+.box-parent {
+	width: 800px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 30px;
+}
+
+.centered {
+	text-align: center;
+}
+
+.box {
+	display: inline-block;
+	border: 1px solid black;
+}
+
+.box-half {
 	width: 50%;
 	height: 200px;
+}
+
+.box-third {
+	width: 33.33%;
+	height: 300px;
+}
+
+.green {
 	background-color: green;
 }
 
-.top-two {
-	height: 200px;
+.blue {
 	background-color: blue;
+}
+
+.grey {
+	background-color: grey;
+}
+
+.black {
+	background-color: black;
+}
+
+.orange {
+	background-color: orange;
 }
